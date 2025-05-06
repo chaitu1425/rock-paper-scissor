@@ -1,7 +1,0 @@
-
-document.getElementById("my1").textContent = "Hello Priya!";
-
-document.getElementById("myp").textContent = "I'm Good at programming";
-
-
-console.log("Priyanka");
